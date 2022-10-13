@@ -1,0 +1,16 @@
+{('Adhemar H', 'Andrea H'), ('Mario H', 'Miriam H'), ('Mario H', 'Esperanza H'), ('Adhemar H', 'Pablo H'), ('Adhemar H', 'Sergio H'), ('Mario H', 'Adhemar H'), ('Mario V', 'Jaqueline V'), ('Mario V', 'Miguel V'), ('Mario V', 'Eli V'), ('Mario H', 'Marco H'), ('Mario V', 'Edgar V')}
+('Mario H',)
+('Adhemar H',)
+('Marco H', 'Adhemar H', 'Miriam H', 'Esperanza H')
+('Jaqueline V', 'Miguel V', 'Eli V')
+('Sergio H', 'Andrea H', 'Pablo H')
+primos
+('Pablo H', 'Andrea H', 'Sergio H')
+('Pablo H', 'Andrea H', 'Sergio H')
+('Sergio H', 'Pablo H', 'Andrea H')
+('Jorge C', 'Ericka P', 'Lorena Pr')
+('Ericka P', 'Lorena Pr', 'Jorge C')
+('Ericka P', 'Lorena Pr', 'Jorge C')
+relacion tios
+('Miguel V', 'Eli V')
+('Marco H', 'Esperanza H', 'Miguel V')
